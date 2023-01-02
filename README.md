@@ -6,7 +6,7 @@
 
 # Docker Image
 
-Image available @ https://hub.docker.com/repository/docker/andarius/nginx-upload
+Image available @ https://hub.docker.com/repository/docker/brunohenriquy/nginx-upload
 
 # Run
 - ```docker build -t nginx-upload:v1 . -f Dockerfile```
